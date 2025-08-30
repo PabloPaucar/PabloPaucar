@@ -32,7 +32,6 @@
 ## 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloPaucar&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" alt="Estadísticas de PabloPaucar" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPaucar&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
